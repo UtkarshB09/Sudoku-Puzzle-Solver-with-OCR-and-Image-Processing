@@ -1,4 +1,3 @@
-# DataFlair Sudoku solver
 
 
 def find_empty(board):
